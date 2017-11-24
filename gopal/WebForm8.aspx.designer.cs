@@ -10,7 +10,7 @@
 namespace gopal {
     
     
-    public partial class WebForm7 {
+    public partial class WebForm8 {
         
         /// <summary>
         /// form1 control.
@@ -22,39 +22,39 @@ namespace gopal {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// txtUser control.
+        /// txtTaskCode control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUser;
+        protected global::System.Web.UI.WebControls.TextBox txtTaskCode;
         
         /// <summary>
-        /// DropDownList1 control.
+        /// txtTaskName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.TextBox txtTaskName;
         
         /// <summary>
-        /// txtUserCred control.
+        /// txtTaskLocation control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUserCred;
+        protected global::System.Web.UI.WebControls.TextBox txtTaskLocation;
         
         /// <summary>
-        /// txtUserWeight control.
+        /// txtTaskType control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUserWeight;
+        protected global::System.Web.UI.WebControls.TextBox txtTaskType;
     }
 }
